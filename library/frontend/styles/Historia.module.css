@@ -1,0 +1,25 @@
+.div{
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .Button{
+    width: 365px;
+   height: 40px;
+   color: rgb(7, 7, 7);
+   border-radius: 4px;
+   border: 2px solid #8f8f95;
+   font-size: 20px;
+}
+
+
+.Option{
+    background-color: #f8f5f5;;
+    list-style-type: none;
+}
+
+.Option:hover{
+    background:#4bf459;
+    color:rgb(8, 8, 8)
+}
